@@ -1,0 +1,6 @@
+[submodule "hellorag-llama-pack"]
+	path = hellorag-llama-pack
+	url = https://github.com/HelloRAG/hellorag-llama-pack
+[submodule "hellorag_llama_pack"]
+	path = hellorag_llama_pack
+	url = https://github.com/HelloRAG/hellorag-llama-pack
